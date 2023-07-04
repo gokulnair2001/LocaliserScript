@@ -30,7 +30,7 @@ Adding localisations from the sheet is a mess so here is a small helper for you.
 * Ik a lot of libraries, but yeah its what it is🫡.
 
 ### Step 2️⃣
-* Download the `script` and `SSToken.json` file 
+* Download the [script](https://github.com/gokulnair2001/LocaliserScript) and `SSToken.json` file 
 
 ### Step 3️⃣
 * Open the script on any IDE and modify the following values as per need

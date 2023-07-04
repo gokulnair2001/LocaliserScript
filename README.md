@@ -1,5 +1,5 @@
 # 📃 PP Localiser Script
-Adding localisations from the sheet is a mess so here is a small helper for you. Localiser Script helps to fetch translations from Master sheet fro the desired keys
+Adding localisations from the sheet is a mess so here is a small helper for you. Localiser Script helps to fetch translations from Master sheet for the desired keys
 
 ## Usage
 
